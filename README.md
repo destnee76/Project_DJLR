@@ -2,7 +2,7 @@
 ## Analysis of the WHO’s Global Health Expenditure Database 2000-2020 (Dec. 2022 version)
 
 **Summary:** 
-##Analysis of the following questions:
+Analysis of the following questions:
   *How does the population growth rate impact the percentage expenditure on healthcare?
   *Do countries with a larger healthcare expenditure allocate more or less towards contraceptive management?
   *Does the consumption expenditure impact the percentage of the GDP spent on healthcare?
@@ -27,4 +27,33 @@ Miscalculation with YoY population growth – created messy visuals and was diff
 **Conclusion:**
 There is no correlation between population growth rates and health expenditure. Between 1% to 3% of the population growth rate is responsible for a large percentage of total health spending. The analysis finds that 4% of the population with the highest health expenditures accounted for nearly half of total health spending in the world.
 
+# Global Health Expenditure
 
+## Analysis of the WHO’s Global Health Expenditure Database 2000-2020 (Dec. 2022 version)
+
+## Getting Started
+
+### Dependencies
+
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
+
+### Installing
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
