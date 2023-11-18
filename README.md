@@ -24,7 +24,7 @@
 * [W.H.O. GHE CSV Download](https://apps.who.int/nha/database/Home/IndicatorsDownload/en) 
 * [Step-by-step bullets](https://apps.who.int/nha/database/Select/Indicators/en)
 
-### Challenges
+### Conclusion
 
 * Working as a group to analyze, clean, and find a focus.
 * Missing data on the GHE CSV, creating challenges when trying to accurately find correlations.
