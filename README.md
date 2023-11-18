@@ -20,7 +20,7 @@
 ### Credits
 
 * [W.H.O. GHE CSV Download](https://apps.who.int/nha/database/Home/IndicatorsDownload/en) 
-* [Step-by-step bullets](https://apps.who.int/nha/database/Select/Indicators/en)
+* [W.H.O Global Health Expenditure Database](https://apps.who.int/nha/database/Select/Indicators/en)
 
 ### Conclusion
 
