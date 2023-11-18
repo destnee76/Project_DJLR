@@ -2,8 +2,6 @@
 
 ## Analysis of the WHO’s Global Health Expenditure Database 2000-2020 (Dec. 2022 version)
 
-## Getting Started
-
 ### Summary: Analysis of the following questions:
 
 * How does the population growth rate impact the percentage expenditure on healthcare?
