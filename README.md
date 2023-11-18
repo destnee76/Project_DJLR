@@ -33,13 +33,20 @@ There is no correlation between population growth rates and health expenditure. 
 
 ## Getting Started
 
-### Dependencies
+### Summary: Analysis of the following questions:
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* How does the population growth rate impact the percentage expenditure on healthcare?
+* Do countries with a larger healthcare expenditure allocate more or less towards contraceptive management?
+* Does the consumption expenditure impact the percentage of the GDP spent on healthcare?
 
 ### Installing
 
+* import matplotlib
+* import pandas
+* import numpy
+* import requests
+* import scipy stats
+* import pprint
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
