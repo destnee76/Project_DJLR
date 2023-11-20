@@ -28,6 +28,7 @@ Project 1
 * [National Health Expenditures, 2020: Spending Accelerates Due to Spike in Federal Government Expenditures Related to the COVID-19 Pandemic](https://www.ama-assn.org/system/files/prp-annual-spending-2020.pdf)
 * [National Health Spending in 2020 Increases due to Impact of COVID-19 Pandemic](https://www.cms.gov/newsroom/press-releases/national-health-spending-2020-increases-due-impact-covid-19-pandemic)
 * [Public healthcare expenditure as a share of GDP, 2019-Data source: World Health Organization](https://ourworldindata.org/financing-healthcare)
+* [The Healthcare Imperative: Lowering Costs and Improving Outcomes: Workshop Series Summary](https://www.ncbi.nlm.nih.gov/books/NBK53914/)
   
 
 ### Challenges
@@ -35,7 +36,7 @@ Project 1
 * Working as a group to analyze, clean, and find a focus.
 * Missing data on the GHE CSV, creating challenges when trying to accurately find correlations.
 * Miscalculation with YoY population growth – created messy visuals and was difficult to diagnose.
-* 
+* Finding data mistakes late in the process
 
 ### Conclusion
 
