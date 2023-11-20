@@ -38,4 +38,4 @@
 
 * There is no correlation between population growth rates and health expenditure. Between 1% to 3% of the population growth rate is responsible for a large percentage of total health spending. The analysis finds that 4% of the population with the highest health expenditures accounted for nearly half of total health spending in the world.
 * Countries with higher Health Expenditure percentages do not, on average, allocate more towards contraceptive management.
-* 
+* There is a weak positive correlation between 'Consumption Expenditure per Capita' and 'Healthcare Expenditure by Percentage of GDP'
