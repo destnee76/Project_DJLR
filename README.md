@@ -21,15 +21,18 @@
 
 * [W.H.O. GHE CSV Download](https://apps.who.int/nha/database/Home/IndicatorsDownload/en) 
 * [W.H.O Global Health Expenditure Database](https://apps.who.int/nha/database/Select/Indicators/en)
-
-### Conclusion
-
-* Working as a group to analyze, clean, and find a focus.
-* Missing data on the GHE CSV, creating challenges when trying to accurately find correlations.
-* Miscalculation with YoY population growth – created messy visuals and was difficult to diagnose
+* [National Health Expenditures, 2020: Spending Accelerates Due to Spike in Federal Government Expenditures Related to the COVID-19 Pandemic](https://www.ama-assn.org/system/files/prp-annual-spending-2020.pdf)
+* [National Health Spending in 2020 Increases due to Impact of COVID-19 Pandemic](https://www.cms.gov/newsroom/press-releases/national-health-spending-2020-increases-due-impact-covid-19-pandemic)
 
 ### Challenges
 
-* There is no correlation between population growth rates and health expenditure. Between 1% to 3% of the population growth rate is responsible for a large percentage of total health spending. The analysis finds that 4% of the population with the highest health expenditures accounted for nearly half of total health spending in the world.
+* Working as a group to analyze, clean, and find a focus.
+* Missing data on the GHE CSV, creating challenges when trying to accurately find correlations.
+* Miscalculation with YoY population growth – created messy visuals and was difficult to diagnose.
 * 
+
+### Conclusion
+
+* There is no correlation between population growth rates and health expenditure. Between 1% to 3% of the population growth rate is responsible for a large percentage of total health spending. The analysis finds that 4% of the population with the highest health expenditures accounted for nearly half of total health spending in the world.
+* Countries with higher Health Expenditure percentages do not, on average, allocate more towards contraceptive management.
 * 
