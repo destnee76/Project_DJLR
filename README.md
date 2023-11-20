@@ -31,7 +31,7 @@
 * Working as a group to analyze, clean, and find a focus.
 * Missing data on the GHE CSV, creating challenges when trying to accurately find correlations.
 * Miscalculation with YoY population growth – created messy visuals and was difficult to diagnose.
-* 
+* There is a weak positive correlation between 'Consumption Expenditure per Capita' and 'Healthcare Expenditure by Percentage of GDP'
 
 ### Conclusion
 
