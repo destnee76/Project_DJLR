@@ -40,3 +40,9 @@
 * Countries with higher Health Expenditure percentages do not, on average, allocate more towards contraceptive management.
 * There is a weak positive correlation between 'Consumption Expenditure per Capita' and 'Healthcare Expenditure by Percentage of GDP'
 
+  ### Summarization
+
+* Population growth impacts healthcare expenditure in complex ways.
+* A higher growth rate may correlate with increased spending due to larger population needs.
+* Countries dedicating funds to contraception often show mixed signals Further Rigorous analysis is needed to disentangle these interwoven factors.
+* Targeting these root determinants proves wisest for balancing human and economic welfare over the long haul.
