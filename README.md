@@ -32,10 +32,11 @@
 * Working as a group to analyze, clean, and find a focus.
 * Missing data on the GHE CSV, creating challenges when trying to accurately find correlations.
 * Miscalculation with YoY population growth – created messy visuals and was difficult to diagnose.
-* There is a weak positive correlation between 'Consumption Expenditure per Capita' and 'Healthcare Expenditure by Percentage of GDP'
+* Finding data mistakes late in the process
 
 ### Conclusion
 
 * There is no correlation between population growth rates and health expenditure. Between 1% to 3% of the population growth rate is responsible for a large percentage of total health spending. The analysis finds that 4% of the population with the highest health expenditures accounted for nearly half of total health spending in the world.
 * Countries with higher Health Expenditure percentages do not, on average, allocate more towards contraceptive management.
 * There is a weak positive correlation between 'Consumption Expenditure per Capita' and 'Healthcare Expenditure by Percentage of GDP'
+
